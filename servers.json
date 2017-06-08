@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "Server1",
+		"ip": "play.pspawn.ru",
 		"type": "PC",
-		"category": "minigames"
+		"category": "survival"
 	},
 	{
-		"name": "HiveMC",
-		"ip": "play.hivemc.com",
+		"name": "Server2",
+		"ip": "mc.egserv.ru",
 		"type": "PC",
 		"category": "minigames"
 	}
